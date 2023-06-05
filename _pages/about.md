@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is Yunhe Yan's home on the web.  
-Lorem ipsum.
+
