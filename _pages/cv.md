@@ -30,17 +30,19 @@ Work experience
   
 Skills
 ======
-* Programming 1
-  * Python 1.1
-  * C/C++ 1.2
-  * Java 1.3 
+* Programming 
+  * Python 
+  * C/C++ 
+  * Java  
 * Languages
-  * Chinese(Native) 2.1
-  * Cantonese(Native) 2.2
-  * English(CET4 630, CET6 583) 2.3
-* Document Creation 3
-  * Latex 3.1
-  * Microsoft Office Suite 3.2
+  * Chinese(Native) 
+  * Cantonese(Native) 
+  * English  
+   * CET4 630 
+   * CET6 583
+* Document Creation 
+  * Latex 
+  * Microsoft Office Suite 
 
 Publications
 ======
