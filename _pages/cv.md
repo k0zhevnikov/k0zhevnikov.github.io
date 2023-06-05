@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Computer Science and Technology, BUPT, Feb. 2021 -- Now
-  * Switched Major
+  * Transfer from mathematics to CS
   * Major GPA 85
 * B.S. in Mathematics and Information Science, BUPT, Sep. 2020 -- Feb. 2021
 
@@ -36,7 +36,7 @@ Projects
   * https://github.com/PASCC-TEAM/PASCC
 
 * LAD2023
-  * Train a NLP model to solve log anomaly detection problem
+  * Train a DNN model to solve log anomaly detection problem
   * Duties included: Implementing main code for the program
 
 * Hands-on Big Data Technology 
@@ -44,7 +44,7 @@ Projects
   * Duties included: Configuring the environment, writing and running program including Hadoop DFS, HBase, Zookeeper, Kafka, Spark SQL, Flink
 
 * Parallel Computing and GPU Programming 
-  * learning concepts, methods of parallelizing serial programs, and applying them in writing programs in CUDA language, executing them via an NVIDIA GPU. 
+  * learning concepts, methods of parallelizing serial programs, and applying them in writing programs in CUDA language, executing them via an NVIDIA GPU
   * Duties included: translating paper about an algorithm for GED(Graph Edit Distance), and parallelizing this serial algorithm in CUDA program
 
 Skills
