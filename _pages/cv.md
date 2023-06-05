@@ -28,6 +28,9 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+Projects
+======
+
 Skills
 ======
 * Programming 
