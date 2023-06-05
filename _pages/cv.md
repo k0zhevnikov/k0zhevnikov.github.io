@@ -24,14 +24,14 @@ Work experience
   * Supervisor: Professor Chuan shi
 
 * Spring 2023: Research Intern
-  * Beijing University of Posts and Telecommunications, Beijing, China.
+  * Beijing University of Posts and Telecommunications
   * Duties included: Conducting experiments, organizing results, and adjusting models for a novel paper
   * Supervisor: Professor Cheng Yang
   
 Projects
 ======
 * PASCC
-  * A tiny and functional compiler translate Pascal-S program to C program
+  * A tiny and functional compiler translating Pascal-S program to C program
   * Duties included: Implementing semantic analysis(type checking) part of the program
   * https://github.com/PASCC-TEAM/PASCC
 
