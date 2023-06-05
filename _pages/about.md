@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Yunhe Yan's home on the web.  
+This is Yunhe Yan(严云鹤)'s home on the web.  
 
