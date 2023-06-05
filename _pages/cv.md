@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science and Technology, BUPT, Feb. 2021 -- Now
+  * Switched Major
+  * Major GPA 85
+* B.S. in Mathematics and Information Science, BUPT, Sep. 2020 -- Feb. 2021
 
 Work experience
 ======
@@ -29,12 +30,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 1
+  * Python 1.1
+  * C/C++ 1.2
+  * Java 1.3 
+* Languages
+  * Chinese(Native) 2.1
+  * Cantonese(Native) 2.2
+  * English(CET4 630, CET6 583) 2.3
+* Document Creation 3
+  * Latex 3.1
+  * Microsoft Office Suite 3.2
 
 Publications
 ======
@@ -42,18 +48,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The Third Prize scholarship of BUPT, Fall 2022
