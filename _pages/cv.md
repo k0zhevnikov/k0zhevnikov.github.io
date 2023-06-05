@@ -38,8 +38,8 @@ Skills
   * Chinese(Native) 
   * Cantonese(Native) 
   * English  
-   * CET4 630 
-   * CET6 583
+    * CET4 630 
+    * CET6 583
 * Document Creation 
   * Latex 
   * Microsoft Office Suite 
