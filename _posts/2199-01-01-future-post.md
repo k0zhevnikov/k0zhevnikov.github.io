@@ -1,11 +1,13 @@
 ---
-title: 'Future Blog Post'
+title: '近期计划'
 date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2199/01/future/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - future posts
+  - plan
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+近期计划：整理日志
+======
+
+这个网站是新近搭建的，在此之前我的一些记录与文字散落在各个地方，近段时间的计划是将它们尽可能整理好归档到这个网站上。
