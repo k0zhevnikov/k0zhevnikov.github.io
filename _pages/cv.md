@@ -55,8 +55,8 @@ Skills
   * Java
   * spark
 * Languages
-  * Chinese(Native) 
-  * Cantonese(Native) 
+  * Mandarin Chinese(Native) 
+  * Cantonese Chinese(Native) 
   * English  
     * CET4 630 
     * CET6 583
