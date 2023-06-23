@@ -14,7 +14,7 @@ I'm currently a junior undergraduate student in Beijing University of Posts and 
   
 Up to now, My research experience is mainly in GNN field. I worked as a long time research intern in GAMMA lab, BUPT for the past year, and contributed to a novel paper submmited to NeurIPS in May, 2023 as third author.  
   
-My current research interest is focus on graph neural network, knowledge graph and reasoning, extending to data mining, text mining and information extraction. I am also particularly interested in security, especially security in ML. But currently I know little about text mining and security as research topics so far.  
+My current research interest is focus on graph neural network, data mining, extending to knowledge graph reasoning and information extraction. I am also particularly interested in security, especially security in ML. But currently I know little about security as research topic so far.  
   
 My CV can be found in this website, and I will keep blogging on it, recording my reflections on various topics.  
   
