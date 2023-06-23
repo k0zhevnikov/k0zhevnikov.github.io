@@ -25,7 +25,7 @@ Work experience
 
 * Spring 2023: Research Intern
   * Beijing University of Posts and Telecommunications
-  * Duties included: Conducting experiments, organizing results, and adjusting models for a novel conference paper as thrid author
+  * Duties included: Conducting experiments, organizing results, and adjusting models for a novel submitted conference paper as thrid author
   * Supervisor: Professor Cheng Yang
   
 Projects
