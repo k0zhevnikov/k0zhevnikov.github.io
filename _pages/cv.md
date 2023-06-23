@@ -36,7 +36,7 @@ Projects
   * https://github.com/PASCC-TEAM/PASCC
 
 * LAD2023
-  * Train a DNN model to solve log anomaly detection problem
+  * Train a DNN model to solve log anomaly detection problem via introducing pretrained model(GPT-2)
   * Duties included: Implementing main code for the program
 
 * Hands-on Big Data Technology 
