@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunhe Yan"
 title_separator          : "-"
 name                     : &name "Yunhe Yan"
-description              : &description "Undergraduate student at BUPT"
+description              : &description "PhD student in BUPT, P.R.China"
 url                      : https://k0zhevnikov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "k0zhevnikov/k0zhevnikov.github.io"
@@ -81,11 +81,19 @@ analytics:
 # Site Author
 author:
   name             : "Yunhe Yan"
+<<<<<<< HEAD
   avatar           : "profile1.png"
   bio              : "Undergraduate student at Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
+=======
+  avatar           : "profile.png"
+  bio              : "PhD student in BUPT, P.R.China"
+  location         : "Beijing, China"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+>>>>>>> refs/remotes/origin/master
   googlescholar    : 
   email            : yur1@bupt.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +104,32 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+<<<<<<< HEAD
   github           : "kqramazov"
+=======
+  github           : "k0zhevnikov"
+>>>>>>> refs/remotes/origin/master
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+<<<<<<< HEAD
   orcid            : 
+=======
+  orcid            : #"http://orcid.org/yourorcidurl"
+>>>>>>> refs/remotes/origin/master
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
+<<<<<<< HEAD
   twitter          : 
+=======
+  twitter          : #"replacethistwitterhandle"
+>>>>>>> refs/remotes/origin/master
   vine             :
   weibo            :
   xing             :
