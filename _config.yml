@@ -11,9 +11,9 @@ title                    : "Yunhe Yan"
 title_separator          : "-"
 name                     : &name "Yunhe Yan"
 description              : &description "Undergraduate student at BUPT"
-url                      : https://kqramazov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://k0zhevnikov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kqramazov/kqramazov.github.io"
+repository               : "k0zhevnikov/k0zhevnikov.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
