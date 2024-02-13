@@ -11,30 +11,67 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science and Technology, BUPT, Feb. 2021 -- Now
+  * Transfer from mathematics to CS
+  * Major GPA 85
+* B.S. in Mathematics and Information Science, BUPT, Sep. 2020 -- Feb. 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Research Intern
+  * Beijing University of Posts and Telecommunications
+  * Duties included: contributing to the open source GNN algorithm library GammaGL(https://github.com/BUPT-GAMMA/GammaGL) by reproducing algorithms in paper
+  * Reproduced algorithm: https://github.com/jennyzhang0215/GaAN
+  * Supervisor: Professor Chuan shi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Research Intern
+  * Beijing University of Posts and Telecommunications
+  * Duties included: conducting experiments, organizing results, and adjusting models for a novel submitted conference paper as thrid author
+  * Supervisor: Professor Cheng Yang
   
+Projects
+======
+* PASCC
+  * A tiny and functional compiler translating Pascal-S program to C program
+  * Duties included: implementing semantic analysis(type checking) part of the program
+  * https://github.com/PASCC-TEAM/PASCC
+
+* LogAnomalyDetection
+  * Train a DNN model to solve log anomaly detection problem via introducing pretrained model(GPT-2)
+  * Duties included: implementing main code for the program
+  * https://github.com/4NIPS/LogAnomalyDetection
+
+* Hands-on Big Data Technology 
+  * learning latest high-level framework, technology and idea in big-data field by deploying functional assemblies and performing collaborative tasks in real-time distributed cloud server cluster(funded by Huaweicloud)
+  * Duties included: Configuring the environment, writing and running program including Hadoop DFS, HBase, Zookeeper, Kafka, Spark SQL, Flink
+
+* Parallel Computing and GPU Programming 
+  * Learning concepts, methods of parallelizing serial programs, and applying them in writing programs in CUDA language, executing them via an NVIDIA GPU
+  * Duties included: translating paper about an algorithm for GED(Graph Edit Distance), and parallelizing this serial algorithm in CUDA program
+  * Parallelized algorithm: https://hal.science/hal-01418937/document
+  * https://github.com/ghostfly23333/gedlib
+
+* DNS-Relay
+  * Develop a functional DNS relay server for internet connection
+  * Duties included: implementing server's storage method by introducing LRU cache mechanism
+  * https://github.com/NoUITeam/DNS-Relay 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 
+  * Python 
+  * C/C++ 
+  * Java
+  * spark
+* Languages
+  * Mandarin Chinese(Native) 
+  * Cantonese Chinese(Native) 
+  * English  
+    * CET4 630 
+    * CET6 583
+* Document Creation 
+  * Latex 
+  * Microsoft Office Suite 
 
 Publications
 ======
@@ -42,18 +79,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The Third Prize scholarship of BUPT, Fall 2022
